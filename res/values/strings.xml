@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNavegationKotlin</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_chat">Chats</string>
+    <string name="title_profile">Perfil</string>
+    <string name="all">TODO</string>
+    <string name="description">Descripción</string>
+</resources>
